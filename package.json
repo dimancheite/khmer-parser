@@ -1,0 +1,19 @@
+{
+  "name": "khmer-parser",
+  "version": "1.0.0",
+  "description": "Parsing Khmer Words",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "khmer",
+    "parser"
+  ],
+  "author": "Visal .In",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2",
+    "microtime": "^2.1.7"
+  }
+}
