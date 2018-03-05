@@ -15,3 +15,5 @@ class KhmerParser
     }
 
 }
+
+module.exports = KhmerParser;

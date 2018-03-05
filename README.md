@@ -1,5 +1,7 @@
 # Khmer Parser
 
+[![Build Status](https://travis-ci.org/Khmerload/khmer-parser.svg?branch=master)](https://travis-ci.org/Khmerload/khmer-parser)
+
 Parsing Khmer words using Khmer dictionary.
 
 ### Example
