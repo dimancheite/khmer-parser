@@ -4,7 +4,13 @@
 
 Parsing Khmer words using Khmer dictionary.
 
-### Example
+## Install
+
+```
+npm install khmer-parser
+```
+
+## Example
 
 ```javascript
 var KhmerParser = require('khmer-parser');
