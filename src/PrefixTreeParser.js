@@ -46,7 +46,7 @@ class PrefixTreeParser
             } else {
                 result.push(word);
             }
-
+            
             start += length;
         }
 
@@ -61,7 +61,7 @@ class PrefixTreeParser
                 result += this.text[start++];
             else return result;
         }
-        return "";
+        return result;
     }
 
     parse_english(start)
@@ -74,7 +74,7 @@ class PrefixTreeParser
             }
             else return result;
         }
-        return "";
+        return result;
     }
 
     parse_tree(start)
